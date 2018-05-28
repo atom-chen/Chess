@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>wzq/black.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{316,1},{16,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,16}</string>
+			</dict>
+			<key>wzq/chessbox.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{313,313}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{313,313}</string>
+			</dict>
+			<key>wzq/white.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{334,1},{16,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,16}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>wzq.png</string>
+			<key>realTextureFileName</key>
+			<string>wzq.png</string>
+			<key>size</key>
+			<string>{351,315}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>351</integer>
+			<key>height</key>
+			<integer>315</integer>
+		</dict>
+	</dict>
+</plist>

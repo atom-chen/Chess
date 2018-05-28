@@ -1,0 +1,4 @@
+
+local Mahjong = class("Mahjong")
+
+return Mahjong
